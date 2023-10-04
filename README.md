@@ -2,7 +2,7 @@
 
 Technology, next-generation sequencing, and big-data have necessitated the use of coding languages to visualise, clean-up, analyse, interpret, and manage large datasets of public health importance. We are aware of the challenges that beginners face, and we do not have to figure it all out on our own!
 
-## Objectives:
+# Objectives:
 
 - Troubleshooting coding related issues
 - Finding efficient ways of solving problems through coding
